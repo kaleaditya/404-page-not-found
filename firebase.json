@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "/imdex.html",
+    "public": "/index.html",
     "ignore": [
       "firebase.json",
       "**/.*",
